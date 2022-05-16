@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: #92B4EC;
+    background-color: #5800FF;
+    background-color: rgba(12, 13, 20, 0.943);
+    height: 120vh;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.circle {
+    height: 30px;
+    width: 30px;
+    background-color: #E900FF;
+}
+.container {
+    margin-top: 30px;
+}
+.btn {
+    font-family: 'Recursive', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    background-color: #E900FF;
+    padding: 15px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 4px;
+}
